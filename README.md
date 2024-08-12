@@ -17,8 +17,6 @@
 <div align="left">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="28" alt="javascript logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=java" height="28" alt="java logo"  />
-  <img width="8" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="28" alt="css3 logo"  />
   <img width="8" />
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?logo=intellijidea&logoColor=white&style=for-the-badge" height="28" alt="intellij logo"  />
@@ -42,6 +40,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="28" alt="vscode logo"  />
   <img width="8" />
   <img src="https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=white&style=for-the-badge" height="28" alt="composer logo"  />
+    <img width="8" />
+  <img src="https://skillicons.dev/icons?i=java" height="28" alt="java logo"  />
 </div>
 
 ###
