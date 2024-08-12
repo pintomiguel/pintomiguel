@@ -15,7 +15,7 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="35" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="25" alt="java logo"  />
   <img width="4" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="35" alt="javascript logo"  />
   <img width="4" />
