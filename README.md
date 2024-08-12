@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">About Me:</h3>
+<h3 align="center">About Me</h3>
 
 ###
 
@@ -54,7 +54,7 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=pintomiguel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&order=1" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=pintomiguel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&order=1" height="120" alt="stats graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pintomiguel&radius=15&theme=react&area=true&order=5" height="150" alt="activity-graph graph"  />
 </div>
 
