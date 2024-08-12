@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">About Me</h3>
+<h6 align="center">About Me</h6>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">Technologies</p>
+<h6 align="center">Technologies</h6>
 
 ###
 
@@ -61,7 +61,7 @@
 
 ###
 
-<h5 align="center">Stats</h5>
+<h2 align="center">Stats</h2>
 
 ###
 
