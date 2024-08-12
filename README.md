@@ -49,7 +49,7 @@
 
 ###
 
-<h5 align="left">Techs</h5>
+<h5 align="center">Techs</h5>
 
 ###
 
