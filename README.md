@@ -62,8 +62,8 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=pintomiguel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=bear&locale=pt-br&hide_border=false&order=1" height="100" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pintomiguel&locale=de&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=panda&hide_border=false&order=2" height="110" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=pintomiguel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=bear&locale=pt-br&hide_border=false&order=1" height="90" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pintomiguel&locale=de&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=panda&hide_border=false&order=2" height="105" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pintomiguel&radius=40&theme=one-dark&area=true&order=5&hide_border=false&hide_title=false" height="90" alt="activity-graph graph"  />
 </div>
 
